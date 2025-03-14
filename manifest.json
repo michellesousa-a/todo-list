@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "todo-list",
+  "short_name": "todo-list",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
